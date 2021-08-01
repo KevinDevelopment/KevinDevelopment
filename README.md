@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvendo projetos como Freelance
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas, desenvolvendo projetos como Freelance
 - 🌱 Estudando Desenvolvimento Full stack no momento, através da plataforma Digital Innovation One 
 - 📫 Email: kevincristhian@outlook.com
  <div>
