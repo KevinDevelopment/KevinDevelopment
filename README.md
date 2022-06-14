@@ -3,7 +3,7 @@
 
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas, desenvolvendo projetos como Freelance
-- 🌱 Estudando Desenvolvimento Full stack no momento, através da plataforma Digital Innovation One 
+- 🌱 Estudando Defesa Cibernética através da Faculdade Impacta Tecnologia (FIT) 
 - 📫 Email: kevincristhian@outlook.com
  <div>
   <a href="https://github.com/KevinDevelopment">
