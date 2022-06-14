@@ -31,7 +31,7 @@
  
 
  
- <i class="devicon-microsoftsqlserver-plain-wordmark colored"></i>
+ 
           
           
           
