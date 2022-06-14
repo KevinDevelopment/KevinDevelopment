@@ -29,7 +29,7 @@
  
  <img align="center" alt="Kevin-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
- <img align="center" alt="Kevin-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+ <img align="center" alt="Kevin-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserverplain-wordmark.svg" />
                             
           
  
