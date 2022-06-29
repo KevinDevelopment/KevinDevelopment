@@ -31,7 +31,7 @@
           
  <img align="center" alt="Kevin-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
  
-<img align="center" alt="Kevin-ubuntu" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+<img align="center" alt="Kevin-ubuntu" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
           
 
  
