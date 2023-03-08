@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Formado em Análise e Desenvolvimento de Sistemas, desenvolvendo projetos como Freelance
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas, estagiário de desenvolvimento de software - ReactJS | NodeJS | Javacript
 - 🌱 Estudando Defesa Cibernética através da Faculdade Impacta Tecnologia (FIT) 
 - 📫 Email: kevincristhian@outlook.com
 
