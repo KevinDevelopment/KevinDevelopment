@@ -4,7 +4,7 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Defesa Cibernética através da Faculdade Impacta Tecnologia (FIT) 
-- 🔭 Estagiário de desenvolvimento de software - ReactJS | NodeJS | Javacript
+- 🔭 Desenvolvedor web júnior - ReactJS | NodeJS | VueJS | Javascript | Typescript
 - 📫 Email: kevincristhian@outlook.com
 - 📫 Linkedin: https://www.linkedin.com/in/kevin-cristhian-ferreira/
 
