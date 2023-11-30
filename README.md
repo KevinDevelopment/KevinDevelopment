@@ -4,7 +4,7 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Defesa Cibernética através da Faculdade Impacta de Tecnologia (FIT) 
-- 🔭 Desenvolvedor web júnior - ReactJS | NodeJS | VueJS | Javascript | Typescript
+- 🔭 Desenvolvedor web júnior - ReactJS | NodeJS | NextJS | Javascript | Typescript
 - 📫 Linkedin: https://www.linkedin.com/in/kevin-cristhian-ferreira/
 
  
